@@ -1,0 +1,5 @@
+To use operators and decision making statements for solving complex programs
+1)WAP using switch statement to calculate the root of a quadratic eqn
+2)WAP to evaluate a student's grade on the basis of their score using else if ladder
+3)WAP to create a simple calculator using switch statement
+4)WAP to check whether given number is zero, positive or negative using else-if ladder

@@ -1,0 +1,11 @@
+Aim : To use loops for solving complex program
+1)WAP to reverse the number and also check whether it is a palindrome using while loops
+2)WAP to check whether given number is a perfect number (for loop)
+3)WAP to check whether number is armstrong number or not (while loop)
+4)WAP to calculate Floyd's triangle for the given number of rows (for loop)
+5)WAP to find out prime number using while loop
+
+Perfect number - It is defined as a postivie integer that can be expressed as the sum of it's proper factors (Factors except itself)
+example : 6,28,496
+
+Armstrong number - The number which is equal to the sum of the number's digits raised to the number of digits is known as an armstrong number

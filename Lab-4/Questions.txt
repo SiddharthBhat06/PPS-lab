@@ -1,0 +1,10 @@
+WAP to evaluate the following : 
+i)(a+b)*c/d
+ii)((a+b)*c)/d
+iii)a+(b*c)/d
+iv)(a+b)*(c/d)
+Q2 Multiply, add, divide, subtract and modulus
+Q3 Swap two numbers w/o using third variable
+Q4 Find the smallest number among 3 numbers using conditional operators
+Q5 Find the largest among given 3 numbers
+

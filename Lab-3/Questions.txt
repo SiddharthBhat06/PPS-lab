@@ -1,0 +1,6 @@
+WAP to print ASCII value of the character
+WAP to print the size of datatypes
+WAP to convert lowercase characters to uppercase
+WAP to convert uppercase characters to lowercase
+WAP to calculate simple interest
+WAP to calculate compound interest
