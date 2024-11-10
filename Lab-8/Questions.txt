@@ -1,5 +1,5 @@
 Q1)WAP to enter a number from 1-7 and display the corresponding day of the week using a switch statement
-Q2)WAP usin do while loop and read numbers until -1 is encountered. Also count the number of prime and composite numbers entered by the user
+Q2)WAP using do while loop and read numbers until -1 is encountered. Also count the number of prime and composite numbers entered by the user
 Q3)WAP to check if the number is strong or not
 Q4)WAP to print all prime numbers up to n using for loop
 Q5)WAP to print even numbers upto n 
