@@ -1,0 +1,5 @@
+Q1)WAP to arrange the elements in 1D array in ascending and descending order using bubble sort method
+Q2)WAP to find an element using linear search
+Q3)WAP to find an element using binary search
+Q4)WAP to search for a given element remove that element from the array and display the corresponding array.
+Q5)WAP to enter a digit and create a number using that digit
