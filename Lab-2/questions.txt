@@ -1,0 +1,7 @@
+1)WAP to display user inputted name
+2)WAP to add 2 integers a and b through keyboard input and display the result as a 
+third variable "sum"
+3)WAP to find the area of a circle 
+4)WAP to convert degree celsius to degree fahrenheit
+5)WAP to find the larger number out of 2 numbers
+6)WAP to find whether the given number is odd or even
