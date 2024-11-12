@@ -1,5 +1,0 @@
-Q1)WAP to display whether the matrix is symmetric or not
-Q2)WAP to display the trace and sum of a matrix
-Q3)WAP to perform matrix multiplication and display the result
-Q4)WAP to interchange rows and columns in the given matrix and display the resultant
-Q5)WAP to compute the row and column sums of a matrix
