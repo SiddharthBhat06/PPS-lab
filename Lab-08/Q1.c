@@ -28,6 +28,8 @@ int main()
         case Sunday:
             printf("Sunday");
             break;
+        default :
+            printf("Invalid");
     }
     return 0;
 }
