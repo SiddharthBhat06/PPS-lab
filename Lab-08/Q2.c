@@ -6,6 +6,7 @@ int main()
     do{
         printf("Enter numbers :");
         scanf("%d", &num);
+        printf("%d\n", num);
         co=0;
         for(fac=1;fac<=num;fac++){
             if(num%fac==0){
