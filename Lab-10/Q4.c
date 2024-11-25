@@ -21,7 +21,7 @@ int main()
         }
     printf("\n");
     }
-    printf("Matrix A :\n");
+    printf("Matrix A after change:\n");
     for(i=0;i<ro1;i++){
         for(j=0;j<co1;j++){
             printf("%d\t", a[j][i]);
