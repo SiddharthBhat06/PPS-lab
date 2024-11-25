@@ -1,0 +1,8 @@
+1)Count the number of words in a sentence 
+2)Input a string and toggle the case of every character in the inputted string
+3)Check whether the given string is a palindrome or not
+4)Delete a word from the given sentence
+5)Write a function 'Fact' to find the factorial of a given number. Using this funtion, compute Combination (nCr) in the main function
+6)Write a function sum CornerSum which takes as a parameter, no. of rows and no. of colums of a matrix and returns the sum of the elements in the four corners of the matrix.
+  Write a main function to test the function.
+  
