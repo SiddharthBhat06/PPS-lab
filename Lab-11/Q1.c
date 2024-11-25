@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {   char str[1000];
-    printf("Enter :");
+    printf("Enter string :");
     gets(str);
     int i=0,co=1;
     while(str[i]!='\0'){
