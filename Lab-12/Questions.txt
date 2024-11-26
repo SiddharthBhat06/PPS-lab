@@ -1,6 +1,6 @@
 1)Write a recursive function GCD to find the GCD of two numbers. Write a main program 
 which reads 2 numbers and finds the GCD of the numbers using the specified function. 
-Ex: GCD of 9,24 is 3
+Ex: GCD of 9,24 is 3  
 
 2)Write a recursive function FIB to generate nth Fibonacci term. Write a main function 
 program to print first N Fibonacci terms using the function
