@@ -12,6 +12,15 @@ int fib(int n)
 }
 int main()
 {   
+    int reg;
+    char nam[100];
+    printf("Enter student name :");
+    gets(nam);
+    printf("Enter student registration number :");
+    scanf("%d", &reg);
+    printf("\n\n");
+    printf("Student name :%s",nam);
+    printf("\nStudent registration number :%d",reg);
     int n,i;
     printf("Enter nth term :");
     scanf("%d", &n);

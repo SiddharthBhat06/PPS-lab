@@ -1,6 +1,16 @@
 #include<stdio.h>
 int main()
 {
+    int reg;
+    char nam[100];
+    printf("Enter student name :");
+    gets(nam);
+    printf("Enter student registration number :");
+    scanf("%d", &reg);
+    printf("\n\n");
+    printf("Student name :%s",nam);
+    printf("\nStudent registration number :%d",reg);
+    
     char a[100],b[100]="";
     int i,len,j;
     printf("Enter your string :");

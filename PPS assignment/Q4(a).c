@@ -19,26 +19,36 @@ int selfdiv(int n1)
 
 int main()
 {
-int i,upval,lowval,len;
-printf("Enter Left :");
-scanf("%d",&lowval);
-printf("Enter right :");
-scanf("%d", &upval);
-printf("\n[%d,%d]",lowval,upval);
-len=(upval-lowval);
-int a[len],j=0;
-for(i=lowval;i<=upval;i++)
-{
-    if(selfdiv(i)==1)
+    int reg;
+    char nam[100];
+    printf("Enter student name :");
+    gets(nam);
+    printf("Enter student registration number :");
+    scanf("%d", &reg);
+    printf("\n\n");
+    printf("Student name :%s",nam);
+    printf("\nStudent registration number :%d",reg);
+    
+    int i,upval,lowval,len;
+    printf("Enter Left :");
+    scanf("%d",&lowval);
+    printf("Enter right :");
+    scanf("%d", &upval);
+    printf("\n[%d,%d]",lowval,upval);
+    len=(upval-lowval);
+    int a[len],j=0;
+    for(i=lowval;i<=upval;i++)
     {
-        a[j]=i;
-        j++;
+        if(selfdiv(i)==1)
+        {
+            a[j]=i;
+            j++;
+        }
     }
-}
-printf("[");
-for(i=0;i<j;i++){
-    printf("%d,",a[i]);
+    printf("[");
+    for(i=0;i<j;i++){
+        printf("%d,",a[i]);
 
-}
-printf("\b]");
+    }
+    printf("\b]");
 }

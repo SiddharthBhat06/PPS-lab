@@ -15,6 +15,16 @@ int digcheck(int i)
 
 int main()
 {
+    int reg;
+    char nam[100];
+    printf("Enter student name :");
+    gets(nam);
+    printf("Enter student registration number :");
+    scanf("%d", &reg);
+    printf("\n\n");
+    printf("Student name :%s",nam);
+    printf("\nStudent registration number :%d",reg);
+    
     int t,n,i;
     printf("Enter number of test cases (b/w 1 and 10000) :");
     scanf("%d", &t);

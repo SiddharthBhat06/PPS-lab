@@ -1,5 +1,15 @@
 #include<stdio.h>
 void main(){
+    int reg;
+    char nam[100];
+    printf("Enter student name :");
+    gets(nam);
+    printf("Enter student registration number :");
+    scanf("%d", &reg);
+    printf("\n\n");
+    printf("Student name :%s",nam);
+    printf("\nStudent registration number :%d",reg);
+    
     int arr[100];
     int k,n,t,f;
     printf("Enter size of array :");
