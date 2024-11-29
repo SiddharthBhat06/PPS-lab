@@ -10,6 +10,7 @@ int main() {
     printf("\n\n");
     printf("Student name :%s",nam);
     printf("\nStudent registration number :%d",reg);
+    printf("\n");
     int N, i, j, P;
     scanf("%d", &N);
 
