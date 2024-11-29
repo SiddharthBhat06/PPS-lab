@@ -43,7 +43,6 @@ int main()
             }
             else{
                 printf("Invalid value (not in range)");
-                break;
             }
         t--;
         }
