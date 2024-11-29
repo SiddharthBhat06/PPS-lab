@@ -23,7 +23,7 @@ int main()
     printf("Student name :%s",nam);
     printf("\nStudent registration number :%d",reg);
     int n,i;
-    printf("Enter nth term :");
+    printf("\nEnter nth term :");
     scanf("%d", &n);
     printf("Fibonacci series gives :");
     for(i=1;i<=n;i++)

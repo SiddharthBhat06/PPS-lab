@@ -31,11 +31,10 @@ int main()
     printf("\nStudent registration number :%d",reg);
     
     int i,upval,lowval,len;
-    printf("Enter Left :");
+    printf("\nEnter Left :");
     scanf("%d",&lowval);
     printf("Enter right :");
     scanf("%d", &upval);
-    printf("\n[%d,%d]",lowval,upval);
     len=(upval-lowval);
     int a[len],j=0;
     for(i=lowval;i<=upval;i++)

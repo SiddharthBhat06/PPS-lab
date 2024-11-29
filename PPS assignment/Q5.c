@@ -27,7 +27,7 @@ int main()
     printf("\nStudent registration number :%d",reg);
     
     int t,n,i;
-    printf("Enter number of test cases (b/w 1 and 10000) :");
+    printf("\nEnter number of test cases (b/w 1 and 10000) :");
     scanf("%d", &t);
     if(t>0&&t<10000){
         while(t>0){
