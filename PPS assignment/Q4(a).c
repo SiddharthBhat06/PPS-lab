@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 int selfdiv(int n1)
 {   int mod,i;
     i=n1;

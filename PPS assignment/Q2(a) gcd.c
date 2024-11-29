@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 int HCF(int n1,int n2)
 {
     if(n2!=0)
